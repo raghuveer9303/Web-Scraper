@@ -125,7 +125,7 @@ def get_review_text(soup_object: BeautifulSoup) -> str:
 def insert_reviews_to_db(reviews, product_asin, product_title, product_description):
     try:
         conn = psycopg2.connect(
-            dbname="SII",
+            dbname="cda1f23e499f",
             user="admin",
             password="raghu@123",
             host="raghuserver",

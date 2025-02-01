@@ -4,7 +4,7 @@ import pandas as pd
 
 # Database connection details
 DB_CONFIG = {
-    "dbname": "SII",
+    "dbname": "cda1f23e499f",
     "user": "admin",
     "password": "raghu@123",
     "host": "raghuserver",

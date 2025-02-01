@@ -66,7 +66,7 @@ def insert_reviews_into_db(equipment_type, reviews, conn):
 
 def main():
     conn = psycopg2.connect(
-        dbname="SII",
+        dbname="cda1f23e499f",
         user="admin",
         password="raghu@123",
         host="raghuserver",
