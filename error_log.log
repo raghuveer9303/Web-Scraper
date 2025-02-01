@@ -1,0 +1,6 @@
+2025-01-29 19:00:35,377:ERROR:Error extracting review from page: 'NoneType' object has no attribute 'text'
+2025-01-29 19:02:48,225:ERROR:Error getting total pages: invalid literal for int() with base 10: '1 with review'
+2025-01-29 19:03:22,017:ERROR:Error extracting review from page: 'NoneType' object has no attribute 'text'
+2025-01-29 19:04:02,661:ERROR:Error getting total pages: invalid literal for int() with base 10: '1 with review'
+2025-01-29 19:04:26,017:ERROR:Error extracting review from page: 'NoneType' object has no attribute 'text'
+2025-01-29 19:05:13,733:ERROR:Error getting total pages: invalid literal for int() with base 10: '1 with review'
