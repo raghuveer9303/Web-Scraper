@@ -4,10 +4,10 @@ import pandas as pd
 
 # Database connection details
 DB_CONFIG = {
-    "dbname": "cda1f23e499f",
+    "dbname": "SII",
     "user": "admin",
     "password": "raghu@123",
-    "host": "raghuserver",
+    "host": "cda1f23e499f",
     "port": "5432"
 }
 
