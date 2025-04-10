@@ -1,5 +1,3 @@
-*Generate Readme based on the files*
-
 # SII Sentiment Analysis Project
 
 This project is designed to scrape product reviews from Amazon and Peloton websites, store them in a PostgreSQL database, and visualize the data using a Streamlit web application.
